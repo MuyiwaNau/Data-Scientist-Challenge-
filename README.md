@@ -15,6 +15,8 @@ Ideas are submitted by employees, customers, startups, or other external stakeho
 - authorId - ID of the author
 - body - comment text 
 
+## Resources 
+- Ideas.json and Comments.json
 
 # Part II - Data Analysis
 ## Data
