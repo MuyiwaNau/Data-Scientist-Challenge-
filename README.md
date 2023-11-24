@@ -1,4 +1,4 @@
-# Data Scientist Challenge
+# SENTIMENT ANALYSIS & MODELLING 
 
 # Part 1 - Natural Language Processing
 Ideas are submitted by employees, customers, startups, or other external stakeholders.
